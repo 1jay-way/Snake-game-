@@ -1,0 +1,2 @@
+# Snake-game-
+Stay alive 
